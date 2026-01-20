@@ -1,0 +1,5 @@
+Alisher,Sharofiddinov,5
+Ihope,Iget,4
+Akmal,Jurakulov,3
+Prince,King,2
+Noone,Willget,1
